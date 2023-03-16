@@ -1,0 +1,6 @@
+{
+  "json": {
+    "enabled": true,
+    "output": "cypress/generate-reports/cucumber-report.json"
+  }
+}
